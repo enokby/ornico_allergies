@@ -1,0 +1,7 @@
+C:\Users\Mohamed Kabir\source\repos\Allergies\Allergies\bin\Debug\Allergies.exe.config
+C:\Users\Mohamed Kabir\source\repos\Allergies\Allergies\bin\Debug\Allergies.exe
+C:\Users\Mohamed Kabir\source\repos\Allergies\Allergies\bin\Debug\Allergies.pdb
+C:\Users\Mohamed Kabir\source\repos\Allergies\Allergies\obj\Debug\Allergies.csprojAssemblyReference.cache
+C:\Users\Mohamed Kabir\source\repos\Allergies\Allergies\obj\Debug\Allergies.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Kabir\source\repos\Allergies\Allergies\obj\Debug\Allergies.exe
+C:\Users\Mohamed Kabir\source\repos\Allergies\Allergies\obj\Debug\Allergies.pdb
