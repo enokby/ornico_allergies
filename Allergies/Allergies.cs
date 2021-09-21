@@ -97,7 +97,7 @@ namespace Allergies
 
         public bool IsAllergicTo(string A)
         {
-            return GetAllergieNames().Any(a => a == Enum.GetName(typeof(Allergen), A)); 
+            return GetAllergies().Any(a => a == (int)Enum.Parse(typeof(Allergen), A)); 
         }
     }
 
